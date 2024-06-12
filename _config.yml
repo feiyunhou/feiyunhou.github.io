@@ -28,7 +28,8 @@ author:
   location         : "[JB 336](http://www.google.com/search?q=jack%20brown%20hall%20csusb)"
   employer         : "California State University,<br>San Bernardino"
   uri              : #"https://www.csusb.edu/cse"
-  email            : "hou@csusb.edu" 
+  email            : "hou@csusb.edu"
+  phone            : "(909) 537-3608"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
