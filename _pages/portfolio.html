@@ -5,13 +5,11 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
-
 <h1>Research Overview</h1>
 <p>My research interests are in the areas of <b>Transportation Cyber-Physical Systems (TCPS)</b>, also known as <b>Intelligent Transportation Systems</b>. My research focuses on two thrusts: <i>First, the design and evaluation of new applications that are made possible by the communication and data collection technologies in TCPS.</i> In particular, communication allows vehicles and infrastructures to collaborate, and “Big Data” makes it possible to predict the system status. Subsequently, we could improve the control and traffic management actions, as well as provide on-road infotainment; <i>Second, the design and development of an integrated traffic-driving-networking simulator.</i> Such an integrated simulator is not only useful for evaluating the proposed TCPS applications that require simulation models from multiple disciplines, but also is an essential tool for evaluating and experimenting with the designs of various Connected Vehicle and Autonomous Vehicle technologies.</p>
 
 <h1>Selected Funded Projects</h1>
-<ol>
+<p><ol>
   <li>NSF S-STEM, 2023: Creating Pathways to Computing Careers through Experiential and Engaged Learning. NSF DUE-2322436</li>
   <li>California Learning Lab, 2023: Greater LA Data Science Pathways (GLADS-PATH).</li>
   <li>California State Transportation Agency, 2023: Medium and Heavy-Duty Electric Vehicle Market.</li>
@@ -20,6 +18,8 @@ author_profile: true
   <li>NSF DSC, 2021: DS-PATH: Data Science Career Pathways in the Inland Empire. NSF IIS-2123271, 2123444, 2123313 </li>
   <li>NSF DSC, 2019: Central Coast Data Science Partnership: Training a New Generation of Data Scientists. NSF IIS-1924205, 1924008</li>
 </ol>
+</p>
+{% include base_path %}
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
