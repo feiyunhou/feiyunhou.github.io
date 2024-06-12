@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yunfei Hou - (侯云飞)"
+title                    : "Yunfei Hou - 侯云飞"
 title_separator          : "-"
 name                     : &name "Yunfei Hou"
 description              : &description "Yunfei Hou's website"
