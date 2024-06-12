@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching"
-permalink: /cv/
+permalink: /teach/
 author_profile: true
 redirect_from:
   - /Teaching
