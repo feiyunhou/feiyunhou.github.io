@@ -5,6 +5,7 @@ permalink: /pub/
 author_profile: true
 redirect_from:
   - /Publication
+  - /publication/
 ---
 Conference Papers
 ======
@@ -15,7 +16,7 @@ Conference Papers
 1. Radhakrishnan, J., Collazo, M., Uyematsu, D., Salloum, M., Hou, Y., (2021). Towards Predicting Bus On-Time Performance in the Inland Empire. IEEE BigData 2021.
 1. Hou, Y., Muheidat, F., Ghasemkhani, A., Sun, Q., Qiao, H., McIntyre, M., Van Wart M.,(2021). The Adaptation of Online Project-based Learning in Computer Engineering Education Settings. ICL 2021.
 1. Zhao, Y., Hou, Y., Qiao, C., (2021). EdgePS: Selective Parameter Aggregation for Distributed Machine Learning in Edge Computing. IEEE CLOUD 2021.
-1. Hou, Y., Muheidat, F., Usher, T., Prado, W., Guo, X., Van Wart, M., (2021). Evaluation of the COVID-19 Shock on STEM Laboratory Courses. IEEE EDUCON 2021 (Best Paper Award).
+1. Hou, Y., Muheidat, F., Usher, T., Prado, W., Guo, X., Van Wart, M., (2021). Evaluation of the COVID-19 Shock on STEM Laboratory Courses. IEEE EDUCON 2021 __(Best Paper Award)__.
 1. Hou, Y., Yan, Z., Collins, K., Popescu, M., (2020). Building a Smart Parking System on College Campus. IEEE/ACM IoTDI 2020.
 1. Shaw, S., Hou, Y., Zhong, W., Sun, Q., Guan, T., Su, L., (2019). Instantaneous Fuel Consumption Estimation Using Smartphones. IEEE VTC 2019.
 1. Hou, Y., Gupta, A., Guan, T., Hu, S., Su, L., Qiao, C., (2017). VehSense: Slippery Road Detection Using Smartphones. IEEE VTC 2017.
@@ -25,10 +26,28 @@ Conference Papers
 1. Hou, Y., Wan, J., Zhao, Y., Hulme, K. F., Wu, C.,  Sadek, A. W., Qiao, C. (2014). The Effect of Autonomous Speed Control System: An Investigation on Minimum Headway and Driver’s Acceptance. ITS World Congress 2014.
 1. Hou, Y., Wan, J., Zhao, Y., Hulme, K., Wu, C., Sadek, A. W., Qiao, C. (2014). A Validated and Integrated Simulation Framework for Human Factors Analyses. I/ITSEC 2014.
 1. Raghuwanshi, V., Salunke, S., Hou, Y., Hulme, K. (2014). Development of a Microscopic Artificially Intelligent Traffic Model for Simulation. I/ITSEC 2014.
-1. Kundu, S., Singh A., Qiao, C., Hou, Y. (2014). Vehicle Speed Control Algorithms for Data Delivery and Eco-Driving. ICCVE 2014 (Best Digest Paper Award).
+1. Kundu, S., Singh A., Qiao, C., Hou, Y. (2014). Vehicle Speed Control Algorithms for Data Delivery and Eco-Driving. ICCVE 2014 __(Best Digest Paper Award)__.
 1. Hou, Y., Li, Xu., Zhao, Y., Jia, X., Sadek, A. W., Hulme, K., Qiao, C. (2013). Towards Efficient Vacant Taxis Cruising Guidance. IEEE GLOBECOM 2013.
 1. Li, X., Qiao, C., Hou, Y., Zhao, Y., Wagh, A., Sadek, A. W., Huang, L., Xu, H. (2013). On-road ads delivery scheduling and bandwidth allocation in vehicular CPS. IEEE INFOCOM 2013.
 1. Hou, Y., Li, X., Qiao, C. (2012). TicTac:From transfer-incapable carpooling to transfer-allowed carpooling. IEEE GLOBECOM 2012.
 
 Journal Papers
 ======
+1. Kelly, A., Khan B., Ayub, M., Hussain, A., Dajani, K., Hou, Y., Khan W.,(2024). Video Dataset of Sheep Activity for Animal Behavioral Analysis via Deep Learning. Data in Brief.
+1. Zhao, Y., Yang, C., Zhao, G., Hou, Y., Wang, T. and Qiao, C., (2023), JointPS: Joint Parameter Server Placement and Flow Scheduling for Machine Learning Clusters, IEEE Transactions on Computers.
+1. Collins, K., Der Wartanian, R., Reed, P., Chea, H., Hou, Y., Zhang, Y., (2023), Social Equity And Public Transit In The Inland Empire: Introducing A Transit Equity Analysis Model. Transportation Research Interdisciplinary Perspectives.
+1. Hou, Y., Ghasemkhani, A.,  Aldirawi, H., McIntyre, M., Van Wart, M., (2022), Shifts in STEM Student Perceptions of Online Classes Across 18 Months. American Journal of Distance Education.
+1. Medina, P., Vij, N., Ni A., Zhang, J., Hou, Y., McIntyre, M., (2022), The “Mainstreaming” of Online Teaching and Conflicted Faculty Perceptions. International Journal of Adult Education and Technology.
+1. Zhong, W., Suo, Q., Ma, F., Hou, Y., Gupta, A., Qiao, C., and Su. L., (2019), A Reliability-Aware Vehicular Crowdsensing System for Pothole Profiling. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 
+1. Zhang, Y., Xu, C., Qiao, C., and Hou, Y., (2019), The Effects of Warning Characteristics on Driver Behavior in Connected Vehicles Systems with Missed Warnings, Accident Analysis and Prevention.
+1. Hou, Y., Seliman, S., Wang, E., Gonder, J., Wood, E., He, Q., Sadek, A., Su, L., Qiao, C., (2018), Cooperative and Integrated Vehicle and Intersection Control for Energy Efficiency (CIVIC-E²), IEEE Transactions on Intelligent Transportation Systems.
+1. Hou, Y., Zhong, W. , Su, L., Hulme, K.F., Sadek, A.W., and Qiao, C. (2016), TASeT: Improving the Efficiency of Electric Taxis with Transfer-Allowed Rideshare, IEEE Transactions on Vehicular Technology.
+1. Hou, Y., Zhao, Y., Wagh, A., Zhang, L., Sadek,  A. W., Hulme, K. F., Wu, C., Qiao, C., Liu, X. (2015). Simulation Based Testing and Evaluation Tools for Transportation Cyber-Physical Systems. IEEE Transactions on Vehicular Technology. 
+1. Wagh, A., Hou, Y., Qiao, C., Zhang, L., Li, X., Sadek, A. W., Hulme, K. F., Wu, C., Xu, H., Huang, L. (2014). Emerging Applications for Cyber Transportation Systems. Journal of Computer Science and Technology.
+1. Hou, Y., Zhao, Y., Hulme, K. F., Huang S., Yang Y., Sadek, A. W., Qiao, C., (2013). An Integrated traffic-driving simulation framework: Design, implementation, and validation. Transportation Research Part C: Emerging Technologies.
+1. Zhao, Y., Wagh, A., Hou, Y., Hulme, K. F., Qiao, C., Sadek, A.W. (2013).  Integrated traffic-driving-networking simulator for the design of connected vehicle applications: Eco-signal case study, Journal of Intelligent Transportation Systems: Technology, Planning and Operations.
+
+Book Chapters
+======
+1. Hou, Y., Collins, K., Van Wart, M., (2021). Intersection Management, Cybersecurity, and Local Government: ITS Applications, Critical Issues, and Regulatory Schemes. Smart Mobility - Recent Advances, New Perspectives and Applications, IntechOpen.
+1. Zhao, Y., Hou, Y., Wag, A., Huang, S., Hulme, K., Qiao, C., Sadek, A.W., (2014). A Partial Reality Experimental System for human-in-the-loop testing of Connected and  Automated Vehicle Applications: Development, Validation and Applications. Road Vehicle Automation, Springer.
