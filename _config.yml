@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Yunfei Hou"
   pronouns         : # example: "she/her"  
-  bio              : "Professor <br> School of Computer Science and Engineering"
+  bio              : "Professor <br> <a href="https://www.csusb.edu/cse">School of Computer Science and Engineering</a>"
   location         : "<a href="http://www.google.com/search?q=jack%20brown%20hall%20csusb">JB 336</a>"
   employer         : "California State University,<br>San Bernardino"
   uri              : #"https://www.csusb.edu/cse"
