@@ -12,8 +12,8 @@ redirect_from:
 Summer 2024
 ======
 * Office Hours: Friday 9:00 – 12:00 AM and by appointment, find Zoom Meeting ID on syllabus
-CSE 4030 Analog Circuit Design and Analysis
-* Class meetings: Monday, Wednesday 9:00 AM - 10:15 AM  Online 
+* CSE 4030 Analog Circuit Design and Analysis
+  * Class meetings: Monday, Wednesday 9:00 AM - 10:15 AM  Online 
 
 Course Taught
 ======
