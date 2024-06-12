@@ -1,49 +1,40 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Dr. Yunfei Hou is an associate professor in the School of Computer Science and Engineering at [California State University San Bernardino](https://www.csusb.edu/cse), and also serves as the associate director at [Leonard Transportation Center](http://leonard.csusb.edu/). He received his Ph.D. in Computer Science and Engineering from [University at Buffalo, SUNY](https://engineering.buffalo.edu/computer-science-engineering.html), and B.S. in Computer Science from [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). His current research interests include applications in transportation cyber-physical systems, data and information analysis for transportation engineering, and STEM education. His recent projects span areas such as vehicular sensing in smart cities, traffic management with connected vehicle technologies, transportation cybersecurity, and data science education. These projects have been funded by NSF, DOT and NREL.
 
-A data-driven personal website
+News
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* Two of my students, Sai Kalyan Ayyagari and Bhavik Pankaj Khatri received the __Outstanding Graduate Student Award__, 5/2024.
+* Our ExCELS scholarship award the [first cohort of 31 students](https://www.csusb.edu/inside/article/579614/csusb-launches-nsf-funded-computer-science-scholarship-low-income-students), 2/2024. 
+* Service: steering committee member, CRB-SEED Symposium, 12/2023.
+* Our ExCELS scholarship is now open, which offers up to $10k per year for 30 Computer Science students at CSUSB, 10/2023.
+* Paper: A journal paper is accepted by IEEE Transactions on Computers, 8/2023.
+* Talk: SIGKDD 2023, Empowering Future Data Scientists: Building New Data Science Programs at CSUSB. 8/2023.
+* __Grant__: Received a [NSF S-STEM](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2322436) grant, $2.5M for five years, PI. 7/2023.
+* Paper: A journal paper is accepted by the Transportation Research Interdisciplinary Perspectives, 6/2023.
+* __Grant__: Received a [California Learning Lab](https://www.csusb.edu/inside/article/579236/12-million-grant-funds-csusb-collaboration-advance-data-science-education) grant, $1.275M for 4 years, PI for CSUSB, CSUSB's share is  $165k. 5/2023.
+* Award: Received the __Outstanding Faculty Award for Research__, CNS, CSUSB, 4/2023.
+* We are offering Data Science summer fellowships for the second year running! As a fellow, you'll receive $5,000 and gain valuable experience in the field. Applications are open until March 31, 2023.
+* Talk: STEM-NET webcast, Data Science, Traffic Engineering and Many Other Summer Opportunities. 1/2023
+* __Grant__: Received a SB1 California State University Transportation Consortium grant, $150k for one year, Co-PI. 1/2023
+* Service: Web co-chair, ACM SIGKDD 2023 Conference on Knowledge Discovery and Data Mining , Long Beach, CA, USA, 11/2022
+* Paper: A journal paper is accepted by the American Journal of Distance Education, 9/2022.
+* __Grant__: Received a [NSF HSI](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2225206&HistoricalAwards=false) grant, $200k for two years, Co-PI. 8/2022.
+* Paper: A conference paper is accepted by the ASCE International Conference on Transportation and Development, 8/2022.
+* Grant: Received a [NSF IUSE](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2142503) grant, $0.6M for three years, PI for CSUSB, my share is about $100k. 6/2022.
+* We are offering 10 fellowships on Data Science this summer, application is open till March 31, 2022.
+* Paper: A conference paper is accepted by IEEE EDUCON 2022, 1/2022
+* Book chapter in: Smart Mobility - Recent Advances, New Perspectives and Applications, 12/ 2021
+* __Grant__: Received a [NSF HDR](https://nsf.gov/awardsearch/showAward?AWD_ID=2123271) grant, $1.5M for three years, PI for CSUSB, CSUSB's share is $250k. 8/2021
+* Paper: A conference paper is accepted by IEEE CLOUD 2021, 7/2021
+* Paper: A conference paper is accepted by International Conference on Interactive Collaborative Learning 2021, 6/2021
+* TEDx talk: How students help to improve campus parking, 6/2021
+* Award: Our IEEE EDUCON paper received the __Best Paper Award__!
+* Paper: A conference paper is accepted by IEEE EDUCON 2021, 4/2021
