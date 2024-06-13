@@ -11,7 +11,7 @@ A list of all the posts and pages found on the site. For you robots out there is
 
 <h2>Pages</h2>
 {% for post in site.pages %}
-  {% if page.title == "Biography" or page.title == "Research Overview" or page.title == "Publication" or page.title == "Teaching" %}
+  {% if post.title == "Biography" or post.title == "Research Overview" or post.title == "Publication" or post.title == "Teaching" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
