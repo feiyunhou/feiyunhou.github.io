@@ -7,18 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>pages</h2>
-<p><a href="{% site.pages.about.md %}">About</a></p>
-
-
-<!-- A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
 <h2>Pages</h2>
 {% for post in site.pages %}
-  {% include archive-single.html %}
+  {% if page.name == "about.md" or page.name == "portfolio.html" or page.name == "teach.md" or page.name == "pub.md" %}
+    {% include archive-single.html %}
 {% endfor %}
 
-<h2>Posts</h2>
+<!-- <h2>Posts</h2>
 {% for post in site.posts %}
   {% include archive-single.html %}
 {% endfor %}
