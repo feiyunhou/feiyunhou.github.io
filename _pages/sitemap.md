@@ -13,6 +13,7 @@ A list of all the posts and pages found on the site. For you robots out there is
 {% for post in site.pages %}
   {% if page.name == "about.md" or page.name == "portfolio.html" or page.name == "teach.md" or page.name == "pub.md" %}
     {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 <!-- <h2>Posts</h2>
