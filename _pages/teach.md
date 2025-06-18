@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Summer 2024
+Summer 2025
 ======
 * Office Hours: Friday 9:00 – 12:00 AM and by appointment, find Zoom Meeting ID on syllabus
 * CSE 4030 Analog Circuit Design and Analysis
@@ -20,6 +20,8 @@ Course Taught
 * CSE 2010 Computer Science I, Spring 2023, Fall 2023
 * CSE 4100 Computer Networking and Security, Fall 2020, Spring 2021, Fall 2021, Spring 2022
 * CSE 4030 Analog Circuit Design and Analysis, Fall 2020, Spring 2021, Fall 2021, Spring 2022, Fall 2023
+* CSE 5208 Introduction to Computer Engineering Design, Fall 2024
+* CSE 5408 Sustainable Engineering Design, Spring 2025
 
 Quarter Courses
 ======
