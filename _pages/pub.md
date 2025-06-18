@@ -37,7 +37,7 @@ Conference Papers
 
 Journal Papers
 ======
-1.Collins, K., Der Wartanian, R., Hou, Y., Ayyagari, S. K., & Khatri, B. P. (2025). Using Big Data to Analyze Long-Haul vs Regional-Short-Haul Trips for Medium-and Heavy-Duty Vehicles. Data in Brief.
+1. Collins, K., Der Wartanian, R., Hou, Y., Ayyagari, S. K., & Khatri, B. P. (2025). Using Big Data to Analyze Long-Haul vs Regional-Short-Haul Trips for Medium-and Heavy-Duty Vehicles. Data in Brief.
 1. McIntyre, M., Cui, G., Hou, Y. (2025). Virtual Avoidance: Examining STEM Students' Lower Interest in Online Courses. The Internet and Higher Education.
 1. Hou, Y., McIntyre, M. M., Fu, J., Herrera, J., Aldirawi, H., & Van Wart, M. (2024). Post-COVID-19 Student and Faculty Perceptions of Online Computing Labs: Better Targeted, Better Perceptions, but Still Need Improvement. Education Sciences.
 1. Kelly, A., Khan B., Ayub, M., Hussain, A., Dajani, K., Hou, Y., Khan W.,(2024). Video Dataset of Sheep Activity for Animal Behavioral Analysis via Deep Learning. Data in Brief.
@@ -56,7 +56,7 @@ Journal Papers
 
 Book Chapters, Technical Reports
 ======
-1.Chen, Y., Macias, H., Granco, G., Hou, Y., Gomez, F.A. (2025).  AI for Social Good Education Through a Culturally Responsive Pedagogy.  Artificial Intelligence for Design and Process Science. Springer.
+1. Chen, Y., Macias, H., Granco, G., Hou, Y., Gomez, F.A. (2025).  AI for Social Good Education Through a Culturally Responsive Pedagogy.  Artificial Intelligence for Design and Process Science. Springer.
 1. Collins, K., Van Wart, M., Hou, Y., Beer, F., (2024). Moving Towards the Electrification of Medium- and Heavy-Duty Vehicles in the Inland Empire. Mineta Transportation Institute.
 1. Hou, Y., Collins, K., Van Wart, M., (2021). Intersection Management, Cybersecurity, and Local Government: ITS Applications, Critical Issues, and Regulatory Schemes. Smart Mobility - Recent Advances, New Perspectives and Applications, IntechOpen.
 1. Zhao, Y., Hou, Y., Wag, A., Huang, S., Hulme, K., Qiao, C., Sadek, A.W., (2014). A Partial Reality Experimental System for human-in-the-loop testing of Connected and  Automated Vehicle Applications: Development, Validation and Applications. Road Vehicle Automation, Springer.
