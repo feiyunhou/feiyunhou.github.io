@@ -9,6 +9,10 @@ redirect_from:
 ---
 Conference Papers
 ======
+1. Bhatt, V., Yu, J.,  Hou, Y.,  Khan, B., Dajani, K., and Jin, J., (2025). From Prompts to Performance: Leveraging LLMs for Enhanced Educational AI Interactions. IEEE CAI 2025.
+1. Bhatt, V., Yu, J.,  Hou, Y. and Jin, J., (2025).  ChatGPT as a Programming tutor: Student Perceptions, Effectiveness, and Challenges. IEEE EDUCON 2025.
+1. Reihanian, I., Hou, Y., Chen, Y., Zheng, Y., (2024). A Review of Generative AI in Computer Science Education: Challenges and Opportunities in Accuracy, Authenticity, and Assessment. CSCI 2024.
+1. Sun, Q.,  Ayyagari, S. K., Hou, Y., and Dajani, K.,  (2024).  A Dual-Modal Human Activity Recognition System Based on Deep Learning and Data Fusion. ICAIBD 2024.
 1. Chen, Y., Granco, G., Hou, Y., Macias, H., Gomez, F., (2024). AI for Social Good Education at Hispanic Serving Institutions. Proceedings of the AAAI 2024 Spring Symposium Series.
 1. Sun, Q.,  Hou, Y., Lu, J., (2023). An Automated On-Bed Rehabilitation System Design Based on Pressure Sensory Data Analysis. IEEE ICAIBD 2023.
 1. Reed, P., Chea, H., Tan, S., Der Wartanian, R., Zhang, Y., Hou, Y., Collins, K., (2022). Shifts in Public Transit Equity during the COVID-19 Pandemic: A Case Study in Riverside, California. ASCE ICTD 2022.
@@ -33,6 +37,9 @@ Conference Papers
 
 Journal Papers
 ======
+1.Collins, K., Der Wartanian, R., Hou, Y., Ayyagari, S. K., & Khatri, B. P. (2025). Using Big Data to Analyze Long-Haul vs Regional-Short-Haul Trips for Medium-and Heavy-Duty Vehicles. Data in Brief.
+1. McIntyre, M., Cui, G., Hou, Y. (2025). Virtual Avoidance: Examining STEM Students' Lower Interest in Online Courses. The Internet and Higher Education.
+1. Hou, Y., McIntyre, M. M., Fu, J., Herrera, J., Aldirawi, H., & Van Wart, M. (2024). Post-COVID-19 Student and Faculty Perceptions of Online Computing Labs: Better Targeted, Better Perceptions, but Still Need Improvement. Education Sciences.
 1. Kelly, A., Khan B., Ayub, M., Hussain, A., Dajani, K., Hou, Y., Khan W.,(2024). Video Dataset of Sheep Activity for Animal Behavioral Analysis via Deep Learning. Data in Brief.
 1. Zhao, Y., Yang, C., Zhao, G., Hou, Y., Wang, T. and Qiao, C., (2023), JointPS: Joint Parameter Server Placement and Flow Scheduling for Machine Learning Clusters, IEEE Transactions on Computers.
 1. Collins, K., Der Wartanian, R., Reed, P., Chea, H., Hou, Y., Zhang, Y., (2023), Social Equity And Public Transit In The Inland Empire: Introducing A Transit Equity Analysis Model. Transportation Research Interdisciplinary Perspectives.
@@ -47,7 +54,9 @@ Journal Papers
 1. Hou, Y., Zhao, Y., Hulme, K. F., Huang S., Yang Y., Sadek, A. W., Qiao, C., (2013). An Integrated traffic-driving simulation framework: Design, implementation, and validation. Transportation Research Part C: Emerging Technologies.
 1. Zhao, Y., Wagh, A., Hou, Y., Hulme, K. F., Qiao, C., Sadek, A.W. (2013).  Integrated traffic-driving-networking simulator for the design of connected vehicle applications: Eco-signal case study, Journal of Intelligent Transportation Systems: Technology, Planning and Operations.
 
-Book Chapters
+Book Chapters, Technical Reports
 ======
+1.Chen, Y., Macias, H., Granco, G., Hou, Y., Gomez, F.A. (2025).  AI for Social Good Education Through a Culturally Responsive Pedagogy.  Artificial Intelligence for Design and Process Science. Springer.
+1. Collins, K., Van Wart, M., Hou, Y., Beer, F., (2024). Moving Towards the Electrification of Medium- and Heavy-Duty Vehicles in the Inland Empire. Mineta Transportation Institute.
 1. Hou, Y., Collins, K., Van Wart, M., (2021). Intersection Management, Cybersecurity, and Local Government: ITS Applications, Critical Issues, and Regulatory Schemes. Smart Mobility - Recent Advances, New Perspectives and Applications, IntechOpen.
 1. Zhao, Y., Hou, Y., Wag, A., Huang, S., Hulme, K., Qiao, C., Sadek, A.W., (2014). A Partial Reality Experimental System for human-in-the-loop testing of Connected and  Automated Vehicle Applications: Development, Validation and Applications. Road Vehicle Automation, Springer.
