@@ -13,14 +13,14 @@ News
 ======
 * Talk: Our AI for Social Good project finished its third year, and two of our student projects were featured at the [CSU Undergraduate Innovation Symposium](https://www.calstate.edu/csu-system/news/Pages/CSU-AI-for-Social-Good-Showcases-Student-Innovation.aspx), 5/2025.
 * Our ExCELS Scholarship awards the [second cohort of 38 students](https://www.csusb.edu/inside/article/588436/csusb-honors-excels-scholars-scholarship-celebration), 3/2025.
-* __Award__: Received the 2025 Faculty Achievement Innovative Research (FAIR) Award, CSUSB, 3/2025.
+* __Award__: Received the 2025 __Faculty Achievement Innovative Research (FAIR) Award__, CSUSB, 3/2025.
 * __Award__: My students Vicky Lopez, Connor Lahm, Mathew Eskola, and Katlyn Koski are winners of the 39th Annual CSUSB Student Research Competition! 2/2025.
-* Two of my students, Sai Kalyan Ayyagari and Bhavik Pankaj Khatri received the __Outstanding Graduate Student Award__, 5/2024.
 * Paper: A journal paper is accepted by The Internet and Higher Education. Elsevier, 1/2025.
 * Paper: A book chapter is published in Artificial Intelligence for Design and Process Science. Springer, 1/2025.
 * Paper: A journal paper is accepted by  Education Sciences, 12/2024.
 * Two of our ExCELS scholars Jerry Cervantes-Fernandez and Alexis Luevanos received the [Hispanic Association of Colleges and Universities scholarship](https://www.calstate.edu/impact-of-the-csu/research/stem-net/Pages/highlights/trailblazers-in-stem-ExCELS-scholars-shine-at-prestigious-hacu-conference.aspx)! 11/ 2024.
 * __Award__: My student Nathan Kelly win the [Best Student Poster Presentation Award](https://www.calstate.edu/impact-of-the-csu/research/stem-net/Pages/highlights/csusb-data-science-students-shine-at-ieee-dsaa-conference.aspx), at IEEE DSAA conference! 10/2024.
+* __Award__:Two of my students, Sai Kalyan Ayyagari and Bhavik Pankaj Khatri received the Outstanding Graduate Student Award, 5/2024.
 * Our ExCELS scholarship award the [first cohort of 31 students](https://www.csusb.edu/inside/article/579614/csusb-launches-nsf-funded-computer-science-scholarship-low-income-students), 2/2024. 
 * Service: steering committee member, CRB-SEED Symposium, 12/2023.
 * Our ExCELS scholarship is now open, which offers up to $10k per year for 30 Computer Science students at CSUSB, 10/2023.
@@ -29,7 +29,7 @@ News
 * __Grant__: Received a [NSF S-STEM](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2322436) grant, $2.5M for five years, PI. 7/2023.
 * Paper: A journal paper is accepted by the Transportation Research Interdisciplinary Perspectives, 6/2023.
 * __Grant__: Received a [California Learning Lab](https://www.csusb.edu/inside/article/579236/12-million-grant-funds-csusb-collaboration-advance-data-science-education) grant, $1.275M for 4 years, PI for CSUSB, CSUSB's share is  $165k. 5/2023.
-* Award: Received the __Outstanding Faculty Award for Research__, CNS, CSUSB, 4/2023.
+* __Award__: Received the __Outstanding Faculty Award for Research__, CNS, CSUSB, 4/2023.
 * We are offering Data Science summer fellowships for the second year running! As a fellow, you'll receive $5,000 and gain valuable experience in the field. Applications are open until March 31, 2023.
 * Talk: STEM-NET webcast, Data Science, Traffic Engineering and Many Other Summer Opportunities. 1/2023
 * __Grant__: Received a SB1 California State University Transportation Consortium grant, $150k for one year, Co-PI. 1/2023
