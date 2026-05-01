@@ -8,19 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Yunfei Hou is a professor in the School of Computer Science and Engineering at [California State University San Bernardino](https://www.csusb.edu/cse), and also serves as the associate director at [Leonard Transportation Center](http://leonard.csusb.edu/). He received his Ph.D. in Computer Science and Engineering from [University at Buffalo, SUNY](https://engineering.buffalo.edu/computer-science-engineering.html), and B.S. in Computer Science from [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). His current research interests include applications in transportation cyber-physical systems, data and information analysis for transportation engineering, and STEM education. His recent projects span areas such as vehicular sensing in smart cities, traffic management with connected vehicle technologies, transportation cybersecurity, and data science education. These projects have been funded by NSF, DOT and NREL.
+Dr. Yunfei Hou is a professor in the School of Computer Science and Engineering at [California State University San Bernardino](https://www.csusb.edu/cse), and also serves as the associate director of the [Computer Science & Engineering Department](https://www.csusb.edu/cse). She earned her Ph.D. in Computer Science from [University of California, Irvine](https://www.uci.edu/) in 2004. Her research interests include cloud computing, big data, machine learning, and AI for social good. She has published 150+ peer-reviewed research papers and has received support from the National Science Foundation (NSF), including NSF S-STEM grant ($2.5M), NSF HDR grant ($1.5M), NSF IUSE grant ($0.6M), NSF HSI grant ($1M), and other funding agencies.
 
 News
 ======
-* Talk: Our AI for Social Good project finished its third year, and two of our student projects were featured at the [CSU Undergraduate Innovation Symposium](https://www.calstate.edu/csu-system/news/Pages/CSU-AI-for-Social-Good-Showcases-Student-Innovation.aspx), 5/2025.
+* Award: Received AFSSA Outstanding Service Award, CSUSB. 4/2026.
+* Our ExCELS scholarship awards the [third cohort of 34 students](https://www.calstate.edu/impact-of-the-csu/research/stem-net/Pages/csusb-celebrates-34-scholars-at-2026-excels-scholarship-reception.aspx), 4/2026.
+* Student's Award: My student Lusine Hayrapetyan earned third place at the [ACM Student Research Competition](https://www.csusb.edu/inside/article/595500/csusb-student-earns-third-place-acm-student-research-competition). 3/2026.
+* Student's Award: Three teams of my students are winners of the 40th Annual CSUSB Student Research Competition! They are: Ashley Camacho; Tara O'Neill De Lafosse, Christopher Pooche, Omar Flores, Kevin Evans, and Jonathan Aguirre; Brynn Knowlton, Liz Jimenez, Nathalie Duran, Nicholas Munoz, and Yadhira Mejia 3/2026
+* Paper: [Four papers from our research team have been accepted to the IEEE ICSC Conference](https://www.csusb.edu/inside/article/594837/csusb-student-research-teams-present-prestigious-ieee-international), 2/2026.
+* Award: Received the 2024-25 Outstanding Service Award, Graduate Studies, CSUSB. 10/2025.
+* Six of our ExCELS scholars received [travel grant to attend the national S-STEM meeting](https://www.calstate.edu/impact-of-the-csu/research/stem-net/Pages/highlights/csusb-exCELS-scholars-attend-2025-national-s-stem-meeting-in-san-diego.aspx), 10/2025.
+* Grant: Received a [NSF HSI grant](https://www.csusb.edu/inside/article/592084/csusb-awarded-million-national-science-foundation-grant-expand-ai-education), $1M for five years, PI. 9/2025.
+* Talk: Our AI for Social Good project finished its third year, and two of our student projects were featured at the [CSU Undergraduate Innovation Symposium](https://www.calstate.edu/csu-system/news-and-events/csu-news/Pages/default.aspx), 5/2025.
 * Our ExCELS Scholarship awards the [second cohort of 38 students](https://www.csusb.edu/inside/article/588436/csusb-honors-excels-scholars-scholarship-celebration), 3/2025.
 * __Award__: Received the 2025 __Faculty Achievement Innovative Research (FAIR) Award__, CSUSB, 3/2025.
 * __Award__: My students Vicky Lopez, Connor Lahm, Mathew Eskola, and Katlyn Koski are winners of the 39th Annual CSUSB Student Research Competition! 2/2025.
 * Paper: A journal paper is accepted by The Internet and Higher Education. Elsevier, 1/2025.
 * Paper: A book chapter is published in Artificial Intelligence for Design and Process Science. Springer, 1/2025.
 * Paper: A journal paper is accepted by  Education Sciences, 12/2024.
-* Two of our ExCELS scholars Jerry Cervantes-Fernandez and Alexis Luevanos received the [Hispanic Association of Colleges and Universities scholarship](https://www.calstate.edu/impact-of-the-csu/research/stem-net/Pages/highlights/trailblazers-in-stem-ExCELS-scholars-shine-at-prestigious-hacu-conference.aspx)! 11/ 2024.
-* __Award__: My student Nathan Kelly win the [Best Student Poster Presentation Award](https://www.calstate.edu/impact-of-the-csu/research/stem-net/Pages/highlights/csusb-data-science-students-shine-at-ieee-dsaa-conference.aspx), at IEEE DSAA conference! 10/2024.
+* Two of our ExCELS scholars Jerry Cervantes-Fernandez and Alexis Luevanos received the [Hispanic Association of Colleges and Universities scholarship](https://www.calstate.edu/impact-of-the-csu/research/stem-net/Pages/highlights/HACU-scholars-2024.aspx), 11/2024.
+* __Award__: My student Nathan Kelly win the [Best Student Poster Presentation Award](https://www.calstate.edu/impact-of-the-csu/research/stem-net/Pages/highlights/csusb-data-science-students-shine-at-csuperb-showcase-2024.aspx), 10/2024.
 * __Award__:Two of my students, Sai Kalyan Ayyagari and Bhavik Pankaj Khatri received the Outstanding Graduate Student Award, 5/2024.
 * Our ExCELS scholarship award the [first cohort of 31 students](https://www.csusb.edu/inside/article/579614/csusb-launches-nsf-funded-computer-science-scholarship-low-income-students), 2/2024. 
 * Service: steering committee member, CRB-SEED Symposium, 12/2023.
@@ -29,7 +37,7 @@ News
 * Talk: SIGKDD 2023, Empowering Future Data Scientists: Building New Data Science Programs at CSUSB. 8/2023.
 * __Grant__: Received a [NSF S-STEM](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2322436) grant, $2.5M for five years, PI. 7/2023.
 * Paper: A journal paper is accepted by the Transportation Research Interdisciplinary Perspectives, 6/2023.
-* __Grant__: Received a [California Learning Lab](https://www.csusb.edu/inside/article/579236/12-million-grant-funds-csusb-collaboration-advance-data-science-education) grant, $1.275M for 4 years, PI for CSUSB, CSUSB's share is  $165k. 5/2023.
+* __Grant__: Received a [California Learning Lab](https://www.csusb.edu/inside/article/579236/12-million-grant-funds-csusb-collaboration-advance-data-science-education) grant, $1.275M for 4 years, Co-PI, 4/2023.
 * __Award__: Received the __Outstanding Faculty Award for Research__, CNS, CSUSB, 4/2023.
 * We are offering Data Science summer fellowships for the second year running! As a fellow, you'll receive $5,000 and gain valuable experience in the field. Applications are open until March 31, 2023.
 * Talk: STEM-NET webcast, Data Science, Traffic Engineering and Many Other Summer Opportunities. 1/2023
