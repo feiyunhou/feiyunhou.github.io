@@ -2,6 +2,8 @@
 layout: archive
 title: "Teaching"
 permalink: /teach/
+description: "Courses taught by Yunfei Hou, Professor of Computer Science at CSUSB — including computer science, networking, security, circuit design, and engineering design."
+keywords: "teaching, courses, computer science education, CSUSB, CSE, networking, circuit design, engineering design, machine learning, Python, Yunfei Hou"
 author_profile: true
 redirect_from:
   - /Teaching
@@ -9,22 +11,19 @@ redirect_from:
 
 {% include base_path %}
 
-Summer 2026
-======
+## Summer 2026
 * Office Hours: Friday 9:00 – 12:00 AM and by appointment, find Zoom Meeting ID on syllabus
 * CSE 4030 Analog Circuit Design and Analysis
   * Class meetings: Monday, Wednesday 9:00 AM - 10:15 AM  Online 
 
-Course Taught
-======
+## Course Taught
 * CSE 2010 Computer Science I, Spring 2023, Fall 2023
 * CSE 4100 Computer Networking and Security, Fall 2020, Spring 2021, Fall 2021, Spring 2022
 * CSE 4030 Analog Circuit Design and Analysis, Fall 2020, Spring 2021, Fall 2021, Spring 2022, Fall 2023
 * CSE 5208 Introduction to Computer Engineering Design, Fall 2024, Fall 2025
 * CSE 5408 Sustainable Engineering Design, Spring 2025, Spring 2026
 
-Quarter Courses
-======
+## Quarter Courses
 * CS 09B  Data-Oriented Introduction to Computing II, Fall 2022 (UC Riverside)
 * CSE 208 Introduction to Computer Engineering Design, Fall 2017, Fall 2018, Fall 2019
 * CSE 308 Computer Engineering Design, Winter 2018, Winter 2019, Winter 2020

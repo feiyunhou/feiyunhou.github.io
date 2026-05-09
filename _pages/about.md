@@ -11,6 +11,7 @@ redirect_from:
 ---
 
 Dr. Yunfei Hou is a professor in the School of Computer Science and Engineering at [California State University San Bernardino](https://www.csusb.edu/), and also serves as the executive director at [Leonard Transportation Center](http://leonard.csusb.edu/). He received his Ph.D. in Computer Science and Engineering from [University at Buffalo, SUNY](https://engineering.buffalo.edu/), and B.S. in Computer Science from [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). His current research interests include applications in transportation cyber-physical systems, data and information analysis for transportation engineering, and STEM education. His recent projects span areas such as vehicular sensing in smart cities, traffic management with connected vehicle technologies, transportation cybersecurity, and data science education. These projects have been funded by NSF, DOT and NREL. 
+
 __I am recruiting research assistants in the areas of Applications of AI and Data Science, Transportation Systems, and Computer Science Education. If interested, feel free to email me or stop by my office.__
 
 News

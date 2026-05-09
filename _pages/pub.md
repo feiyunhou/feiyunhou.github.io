@@ -2,13 +2,14 @@
 layout: archive
 title: "Publication"
 permalink: /pub/
+description: "Publications by Yunfei Hou, Professor of Computer Science at CSUSB — journal papers, conference papers, and book chapters on AI, data science, intelligent transportation systems, and STEM education."
+keywords: "publications, research papers, journal articles, conference papers, AI, data science, intelligent transportation systems, computer science education, STEM, ACM, IEEE, NSF, Yunfei Hou, CSUSB"
 author_profile: true
 redirect_from:
   - /Publication
   - /publication/
 ---
-Conference Papers
-======
+## Conference Papers
 1. Bhatt, V., Yu, J., Hou, Y., Khan, B., Dajani, K., and Jin, J., (2025). [From Prompts to Performance: Leveraging LLMs for Enhanced Educational AI Interactions](https://www.researchgate.net/publication/393497072_From_Prompts_to_Performance_Leveraging_LLMs_for_Enhanced_Educational_AI_Interactions). IEEE CAI 2025.
 1. Bhatt, V., Yu, J., Hou, Y. and Jin, J., (2025). [ChatGPT as a Programming tutor: Student Perceptions, Effectiveness, and Challenges](https://drive.google.com/file/d/1elCYhPYZnxjMfIhtR_4W4NBnbKYmr_nH/view?usp=sharing). IEEE EDUCON 2025.
 1. Reihanian, I., Hou, Y., Chen, Y., Zheng, Y., (2024). [A Review of Generative AI in Computer Science Education: Challenges and Opportunities in Accuracy, Authenticity, and Assessment](https://drive.google.com/file/d/18JI_H0kUIi5fwgK5LVyqYovHwBs1Nnbp/view?usp=sharing). CSCI 2024.
@@ -35,8 +36,7 @@ Conference Papers
 1. Li, X., Qiao, C., Hou, Y., Zhao, Y., Wagh, A., Sadek, A. W., Huang, L., Xu, H. (2013). [On-road ads delivery scheduling and bandwidth allocation in vehicular CPS](http://www.cse.buffalo.edu/CTS/papers/INFOCOM13_On-Road_Ad.pdf). IEEE INFOCOM 2013.
 1. Hou, Y., Li, X., Qiao, C. (2012). [TicTac: From transfer-incapable carpooling to transfer-allowed carpooling](http://www.cse.buffalo.edu/CTS/papers/GC12_Carpool.pdf). IEEE GLOBECOM 2012.
 
-Journal Papers
-======
+## Journal Papers
 1. Reihanian, I., Hou, Y., & Sun, Q. (2026). [From Pilots to Practices: A Scoping Review of GenAI-Enabled Personalization in Computer Science Education](https://doi.org/10.3390/ai7010006). AI.
 1. Collins, K., Der Wartanian, R., Hou, Y., Ayyagari, S. K., & Khatri, B. P. (2025). [Using Big Data to Analyze Long-Haul vs Regional-Short-Haul Trips for Medium-and Heavy-Duty Vehicles](https://www.sciencedirect.com/science/article/pii/S2352340925001027). Data in Brief.
 1. McIntyre, M., Cui, G., Hou, Y. (2025). [Virtual Avoidance: Examining STEM Students' Lower Interest in Online Courses](https://www.sciencedirect.com/science/article/pii/S1096751625000041). The Internet and Higher Education.
@@ -55,8 +55,7 @@ Journal Papers
 1. Hou, Y., Zhao, Y., Hulme, K. F., Huang S., Yang Y., Sadek, A. W., Qiao, C., (2013). [An Integrated traffic-driving simulation framework: Design, implementation, and validation](http://www.cse.buffalo.edu/CTS/papers/TRC14_Validation.pdf). Transportation Research Part C: Emerging Technologies.
 1. Zhao, Y., Wagh, A., Hou, Y., Hulme, K. F., Qiao, C., Sadek, A.W. (2013). Integrated traffic-driving-networking simulator for the design of connected vehicle applications: Eco-signal case study. Journal of Intelligent Transportation Systems: Technology, Planning and Operations.
 
-Book Chapters, Technical Reports
-======
+## Book Chapters, Technical Reports
 1. Chen, Y., Macias, H., Granco, G., Hou, Y., Gomez, F.A. (2025). [AI for Social Good Education Through a Culturally Responsive Pedagogy](https://link.springer.com/chapter/10.1007/978-3-031-67886-8_1). Artificial Intelligence for Design and Process Science. Springer.
 1. Collins, K., Van Wart, M., Hou, Y., Beer, F., (2024). [Moving Towards the Electrification of Medium- and Heavy-Duty Vehicles in the Inland Empire](https://transweb.sjsu.edu/research/2305.1-Medium-Heavy-Duty-Vehicles-EV-Charging-Equity). Mineta Transportation Institute.
 1. Hou, Y., Collins, K., Van Wart, M., (2021). Intersection Management, Cybersecurity, and Local Government: ITS Applications, Critical Issues, and Regulatory Schemes. Smart Mobility - Recent Advances, New Perspectives and Applications, IntechOpen.
