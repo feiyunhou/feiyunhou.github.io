@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yunfei Hou - 侯云飞"
 title_separator          : "-"
 name                     : &name "Yunfei Hou"
-description              : &description "Yunfei Hou's website"
+description              : &description "Professor of Computer Science and Executive Director of the Leonard Transportation Center at CSUSB, specializing in AI, data science, and intelligent transportation systems. PI on over $7M in NSF-funded research."
 url                      : https://feiyunhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "feiyunhou/feiyunhou.github.io"
@@ -32,9 +32,9 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=QFQ37sAAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=QFQ37sAAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-9443-4026"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : #"https://www.researchgate.net/profile/Yunfei-Hou"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : #"yunfei-hou-4364bb28"
+  linkedin         : "yunfei-hou-4364bb28"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -117,6 +117,7 @@ google_site_verification : "LsL-bTSbLo4Ma0Y6qy2cN13zM2sIXYOW2mG1zt3LxwA"
 bing_site_verification   : "2DC06AB13AFA159B0379F2D2F3EC1C3B"
 alexa_site_verification  :
 yandex_site_verification :
+baidu_site_verification  :
 
 
 # Social Sharing
