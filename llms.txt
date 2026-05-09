@@ -1,0 +1,44 @@
+# Yunfei Hou (侯云飞)
+
+> Professor of Computer Science and Executive Director of the Leonard Transportation Center at California State University San Bernardino (CSUSB). Research focuses on AI, data science, intelligent transportation systems, and STEM education.
+
+## Key Pages
+
+- [Biography & News](https://feiyunhou.github.io/): Academic biography, current research interests, and chronological news of awards, grants, and publications.
+- [Research Overview](https://feiyunhou.github.io/portfolio/): Overview of research areas including transportation cyber-physical systems, connected vehicles, smart cities, transportation cybersecurity, and data science education. Lists all major funded grants.
+- [Publications](https://feiyunhou.github.io/pub/): Full list of journal papers, conference papers, and book chapters. Covers AI, data science, intelligent transportation systems, and computer science education.
+- [Teaching](https://feiyunhou.github.io/teach/): Courses taught at CSUSB and prior institutions, including computer science, networking, circuit design, and engineering design.
+
+## Selected Grants
+- NSF HSI, 2025:  Promoting Regional Opportunities for Practical and Engaged Learning in Artificial Intelligence. $1M for five years, PI for CSUSB. NSF DUE-2524227, 2524228 
+- NSF S-STEM, 2023: Creating Pathways to Computing Careers through Experiential and Engaged Learning. $2.5M for five years, PI.  NSF DUE-2322436
+- California Learning Lab, 2023: Greater LA Data Science Pathways (GLADS-PATH). $1.275M for four years, PI for CSUSB.  
+- California State Transportation Agency, 2023: Medium and Heavy-Duty Electric Vehicle Market (Mineta Institute). $150k for one year, Co-PI.  
+- NSF HSI, 2022: Improving Online STEM Education for Undergraduate Students at HSIs. $200k for two years, Co-PI.  NSF DUE-2225206
+- NSF IUSE, 2022: Broadening Inclusive Participation in Artificial Intelligence Undergraduate Education for Social Good Using A Situated Learning Approach. $0.6M for three years, PI for CSUSB.  NSF DUE-2142503, 2142783, 2142439, 2142490, 2142594 
+- NSF DSC, 2021: DS-PATH: Data Science Career Pathways in the Inland Empire. $1.5M for three years, PI for CSUSB.  NSF IIS-2123271, 2123444, 2123313 
+- NSF DSC, 2019: Central Coast Data Science Partnership: Training a New Generation of Data Scientists. NSF IIS-1924205, 1924008
+
+## Selected Recent Publications
+- Bhatt, V., Yu, J.,  Hou, Y.,  Khan, B., Dajani, K., and Jin, J., (2025). From Prompts to Performance: Leveraging LLMs for Enhanced Educational AI Interactions. IEEE CAI 2025.
+- Bhatt, V., Yu, J.,  Hou, Y. and Jin, J., (2025).  ChatGPT as a Programming tutor: Student Perceptions, Effectiveness, and Challenges. IEEE EDUCON 2025.
+- Reihanian, I., Hou, Y., Chen, Y., Zheng, Y., (2024). A Review of Generative AI in Computer Science Education: Challenges and Opportunities in Accuracy, Authenticity, and Assessment. CSCI 2024.
+- Chen, Y., Granco, G., Hou, Y., Macias, H., Gomez, F., (2024). AI for Social Good Education at Hispanic Serving Institutions. AAAI 2024.
+- Reihanian, I., Hou, Y., & Sun, Q. (2026). From Pilots to Practices: A Scoping Review of GenAI-Enabled Personalization in Computer Science Education. AI.
+- McIntyre, M., Cui, G., Hou, Y. (2025). Virtual Avoidance: Examining STEM Students' Lower Interest in Online Courses. The Internet and Higher Education.
+- Hou, Y., McIntyre, M. M., Fu, J., Herrera, J., Aldirawi, H., & Van Wart, M. (2024). Post-COVID-19 Student and Faculty Perceptions of Online Computing Labs: Better Targeted, Better Perceptions, but Still Need Improvement. Education Sciences.
+- Chen, Y., Macias, H., Granco, G., Hou, Y., Gomez, F.A. (2025).  AI for Social Good Education Through a Culturally Responsive Pedagogy.  Artificial Intelligence for Design and Process Science. Springer.
+
+## Academic Profiles
+
+- Google Scholar: https://scholar.google.com/citations?user=QFQ37sAAAAAJ&hl=en
+- ORCID: https://orcid.org/0000-0001-9443-4026
+- ResearchGate: https://www.researchgate.net/profile/Yunfei-Hou
+- LinkedIn: https://www.linkedin.com/in/yunfei-hou-4364bb28
+
+## Contact
+
+- Email: hou@csusb.edu
+- Office: JB 336, California State University San Bernardino
+- Institution: https://www.csusb.edu/
+- Leonard Transportation Center: http://leonard.csusb.edu/
